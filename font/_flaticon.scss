@@ -1,0 +1,100 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 26/06/2019 10:03
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-play-arrow:before { content: "\f100"; }
+.flaticon-right-arrow:before { content: "\f101"; }
+.flaticon-back:before { content: "\f102"; }
+.flaticon-message:before { content: "\f103"; }
+.flaticon-down-arrow:before { content: "\f104"; }
+.flaticon-call-answer:before { content: "\f105"; }
+.flaticon-facebook-placeholder-for-locate-places-on-maps:before { content: "\f106"; }
+.flaticon-maps-and-flags:before { content: "\f107"; }
+.flaticon-mail:before { content: "\f108"; }
+.flaticon-phone-call:before { content: "\f109"; }
+.flaticon-pipe-wrench:before { content: "\f10a"; }
+.flaticon-bathroom:before { content: "\f10b"; }
+.flaticon-drainage:before { content: "\f10c"; }
+.flaticon-leak:before { content: "\f10d"; }
+.flaticon-toilet:before { content: "\f10e"; }
+.flaticon-plunger:before { content: "\f10f"; }
+.flaticon-van:before { content: "\f110"; }
+.flaticon-tank:before { content: "\f111"; }
+.flaticon-architecture-and-city:before { content: "\f112"; }
+.flaticon-repair:before { content: "\f113"; }
+.flaticon-industry:before { content: "\f114"; }
+.flaticon-broken:before { content: "\f115"; }
+.flaticon-pipes:before { content: "\f116"; }
+.flaticon-ecology:before { content: "\f117"; }
+.flaticon-faucet:before { content: "\f118"; }
+.flaticon-magnifying-glass:before { content: "\f119"; }
+.flaticon-zoom-in:before { content: "\f11a"; }
+.flaticon-search:before { content: "\f11b"; }
+.flaticon-clock:before { content: "\f11c"; }
+.flaticon-time:before { content: "\f11d"; }
+    
+    $font-Flaticon-play-arrow: "\f100";
+    $font-Flaticon-right-arrow: "\f101";
+    $font-Flaticon-back: "\f102";
+    $font-Flaticon-message: "\f103";
+    $font-Flaticon-down-arrow: "\f104";
+    $font-Flaticon-call-answer: "\f105";
+    $font-Flaticon-facebook-placeholder-for-locate-places-on-maps: "\f106";
+    $font-Flaticon-maps-and-flags: "\f107";
+    $font-Flaticon-mail: "\f108";
+    $font-Flaticon-phone-call: "\f109";
+    $font-Flaticon-pipe-wrench: "\f10a";
+    $font-Flaticon-bathroom: "\f10b";
+    $font-Flaticon-drainage: "\f10c";
+    $font-Flaticon-leak: "\f10d";
+    $font-Flaticon-toilet: "\f10e";
+    $font-Flaticon-plunger: "\f10f";
+    $font-Flaticon-van: "\f110";
+    $font-Flaticon-tank: "\f111";
+    $font-Flaticon-architecture-and-city: "\f112";
+    $font-Flaticon-repair: "\f113";
+    $font-Flaticon-industry: "\f114";
+    $font-Flaticon-broken: "\f115";
+    $font-Flaticon-pipes: "\f116";
+    $font-Flaticon-ecology: "\f117";
+    $font-Flaticon-faucet: "\f118";
+    $font-Flaticon-magnifying-glass: "\f119";
+    $font-Flaticon-zoom-in: "\f11a";
+    $font-Flaticon-search: "\f11b";
+    $font-Flaticon-clock: "\f11c";
+    $font-Flaticon-time: "\f11d";
