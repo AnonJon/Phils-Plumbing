@@ -8943,6 +8943,8 @@ nav.template-main-menu > ul > li:hover .template-mega-menu {
   border-radius: 4px;
   transform: scale(1);
   transition: transform 3s cubic-bezier(0.2, 0.96, 0.34, 1);
+  height: 430px;
+  width: 570px;
 }
 .service-box-layout4 .media .media-body .item-title {
   font-size: 30px;
@@ -11272,6 +11274,8 @@ nav.template-main-menu > ul > li:hover .template-mega-menu {
 }
 .team-box-layout2 .item-img img {
   border-radius: 50%;
+  height: 250px;
+  width: 250px;
 }
 .team-box-layout2 .item-content .item-title {
   font-size: 24px;
