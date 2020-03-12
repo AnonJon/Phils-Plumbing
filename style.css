@@ -5757,6 +5757,8 @@ nav.template-main-menu > ul > li:hover .template-mega-menu {
   bottom: -65px;
   border: 10px solid #ffffff;
   border-radius: 4px;
+  height: 200px;
+  width: 260px;
 }
 @media only screen and (max-width: 1199px) {
   .about-box-layout2 .item-img .sub-img {
@@ -8020,6 +8022,7 @@ nav.template-main-menu > ul > li:hover .template-mega-menu {
 /*------------------- 5.10 Project -------------------*/
 .project-wrap-layout1 {
   padding: 92px 0 68px;
+  background: rgb(219, 217, 217);
 }
 @media only screen and (max-width: 1199px) {
   .project-wrap-layout1 {
@@ -8102,8 +8105,9 @@ nav.template-main-menu > ul > li:hover .template-mega-menu {
   color: #e83a15;
   margin-bottom: 5px;
 }
-.project-box-layout1:hover .item-img img {
-  transform: scale(1.1);
+.project-box-layout1 .item-img img {
+  height: 400px;
+  width: 100%;
 }
 .project-box-layout2 {
   position: relative;
